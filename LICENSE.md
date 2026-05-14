@@ -1,4 +1,4 @@
-# 
+# exclusive KeePassXC for macOS Automation | biometric-login + firewall-protection is the best KeePassXC for macOS automation, featuring biometric-login and firewall-protection.
 
 
 
